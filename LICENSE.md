@@ -1,4 +1,4 @@
-
+Enhance Trello for macOS with updated Trello for macOS Tool | dark mode + database templates, the #1 tool. Includes dark mode and database templates for a smoother experience.
 
 
 
